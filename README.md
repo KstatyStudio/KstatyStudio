@@ -1,6 +1,6 @@
 ### Привет!
 
-<a href="https://vk.com/s.a.kukushkina">
+<a href="https://vk.com/">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 
