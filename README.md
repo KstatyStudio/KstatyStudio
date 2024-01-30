@@ -1,5 +1,6 @@
 ### Здравствуйте!
 
+
 <a href="https://vk.com/">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -9,7 +10,6 @@
 Меня зовут Лана. Сейчас я обучаюсь в компании OTUS.
 
 <br />
-
 **Languages and Tools:** 
 ```
 echo 'Hello, World!'
