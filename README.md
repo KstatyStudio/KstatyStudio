@@ -8,6 +8,7 @@
 <br />
 
 Меня зовут Лана. Сейчас я обучаюсь в компании OTUS.
+
 I'm Lana. I’m currently learning with OTUS.
 <br />
 
