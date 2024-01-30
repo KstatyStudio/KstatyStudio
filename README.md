@@ -1,4 +1,5 @@
 ### Здравствуйте!
+### Hi!
 
 <a href="https://vk.com/">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
@@ -6,8 +7,8 @@
 
 <br />
 
-Меня зовут Светлана. Сейчас я обучаюсь в компании OTUS.
-
+Меня зовут Лана. Сейчас я обучаюсь в компании OTUS.
+I'm Lana. I’m currently learning with OTUS.
 <br />
 
 **Мои задачи на ближайшее время:**
