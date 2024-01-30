@@ -10,8 +10,9 @@
 
 <br />
 
+**Languages and Tools:** 
 ```
-echo 'Hello world!'
+echo 'Hello, World!'
 ```
 
 **Мои задачи на ближайшее время:**
