@@ -8,7 +8,7 @@
 Меня зовут Лана. Сейчас я обучаюсь в компании OTUS.
 
 <br />
-**Languages and Tools:** 
+**Languages and Tools:**
 
 ```
 echo 'Hello, World!'
