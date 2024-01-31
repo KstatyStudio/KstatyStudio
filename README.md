@@ -13,7 +13,7 @@
 **Languages and Tools:**
 
 ```
-# echo 'Hello, World!'
+echo 'Hello, World!'
 ```
 
 **Мои задачи на ближайшее время:**
